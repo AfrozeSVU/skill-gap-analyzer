@@ -1,0 +1,32 @@
+{
+  "name": "skill-gap-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze skill gaps between your profile and target roles using GitHub and NewsAPI",
+  "main": "src/cli.js",
+  "type": "module",
+  "bin": {
+    "skill-gap-analyzer": "src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "analyze": "node src/cli.js analyze",
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "skill-gap",
+    "career",
+    "ai",
+    "ml",
+    "github-api",
+    "newsapi"
+  ],
+  "author": "Afroze Mohammad",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "commander": "^11.0.0",
+    "dotenv": "^16.3.1",
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {}
+}
