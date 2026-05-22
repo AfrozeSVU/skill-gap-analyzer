@@ -1,0 +1,48 @@
+candidate:
+  full_name: "Afroze Mohammad"
+  email: "afroze.mohammad25@gmail.com"
+  phone: "+91-9123234871"
+  location: "Nellore, Andhra Pradesh, India"
+  linkedin: "https://linkedin.com/in/itsmeafroze"
+  portfolio_url: "https://afroze-portfolio-tawny.vercel.app/"
+  github: "https://github.com/AfrozeSVU"
+
+target_roles:
+  primary:
+    - "Junior AI/ML Engineer"
+    - "AI Engineer"
+    - "Machine Learning Engineer"
+  archetypes:
+    - name: "AI/ML Engineer"
+      level: "Junior/Entry"
+      fit: "primary"
+
+skills:
+  languages:
+    - Python
+    - SQL
+    - JavaScript
+  ml_frameworks:
+    - PyTorch
+    - TensorFlow
+    - scikit-learn
+    - NumPy
+    - Pandas
+  ai_domains:
+    - Machine Learning
+    - Deep Learning
+    - MLOps
+  backend:
+    - FastAPI
+    - Flask
+    - REST APIs
+    - PostgreSQL
+    - MySQL
+  cloud_infra:
+    - AWS
+    - Docker
+    - Git
+  tools:
+    - Jupyter Notebook
+    - VS Code
+    - Linux
