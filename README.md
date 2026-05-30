@@ -79,11 +79,7 @@ skills:
     - Linux
 ```
 
-Or use the example from Career-Ops:
-
-```bash
-cp ../career-ops/config/profile.yml ./profile.yml
-```
+ 
 
 ### 4. Run Analysis
 
